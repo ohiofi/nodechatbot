@@ -1,0 +1,15 @@
+{
+  "keyword":["response"],
+  "default":["Sorry, I don't understand"],
+  "hi":["Hello","Hey","Hi","Howdy","Howdy partner","Hi, how are you?","Oh, hi!"],
+  "hello":["Hello","Hey","Hi","Howdy","Howdy partner","Hi, how are you?","Oh, hi!"],
+  "minecraft":["steve"],
+  "apple":["banana"],
+  "canvas":["https://hilliard.instructure.com/"],
+  "website":["The district website is <a href='https://www.hilliardschools.org/'>https://www.hilliardschools.org</a>"], 
+  "staff":["https://www.hilliardschools.org/staff/"],
+  "parents":["https://www.hilliardschools.org/parents/"],
+  "students":["https://www.hilliardschools.org/students/"],
+  "twitter":["The HCSD Twitter account is <a href='https://twitter.com/HilliardSchools'>https://twitter.com/HilliardSchools</a>"],
+  "weather":["Have you tried https://weather.com/weather/today/"]
+}
